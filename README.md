@@ -14,7 +14,7 @@ Handles division by zero errors
 
 Screenshots
 
-(Add screenshots of your calculator GUI here if you like)
+<img width="1505" height="926" alt="image" src="https://github.com/user-attachments/assets/276c9b64-6742-43e5-a641-b74c31007891" />
 
 Getting Started
 Prerequisites
